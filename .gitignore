@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 *.save
 .ipynb_checkpoints/
+
+git_setup.ipynb
