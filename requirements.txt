@@ -1,6 +1,7 @@
 
 yfinance
 pandas_ta
+selenium
 scikit-learn 
 matplotlib
 plotly
