@@ -13,3 +13,4 @@ keras
 numpy
 pandas
 import-ipynb
+ta
